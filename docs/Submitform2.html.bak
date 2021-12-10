@@ -1,8 +1,0 @@
-tml>
-<head><title>Submitted form alert</title>
-</head>
-<body bgcolor="mediumseagreen">
-<h1 style="color:blue;"align="center">Your Choice Has Submitted Successfully!</h1>
-<h3 style="color:green"align="center"><a href="index.html" target="_parent">Click here to return to home Page</a> </h3><br>
-</body>
-</html>
