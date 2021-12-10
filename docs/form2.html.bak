@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p>Choose your favorite Web language:</p>
+<form action="Submitform2.html">
+  <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">HTML</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">CSS</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">JavaScript</label><br><br>
+  <input type="checkbox" id="python" name="fav_language" value="python">
+  <label for="python"> Python </label><br>
+  <input type="checkbox" id="C" name="fav_language" value="C">
+  <label for="C"> C </label><br>
+  <input type="checkbox" id="java" name="fav_language" value="java">
+  <label for="java"> Java </label><br>
+  <input type="submit" value="Submit"><br>
+  <h3 style="color:green"align="center"><a href="index.html" target="_parent">Click here to return to home Page</a> </h3><br>
+</form> 
+
+</body>
+</html>
